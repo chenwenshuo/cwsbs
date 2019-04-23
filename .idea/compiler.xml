@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cws-common" />
+        <module name="cws-dao" />
+        <module name="cws-redis" />
+        <module name="cws-service" />
+        <module name="cws-web" />
+        <module name="cwscommon" />
+        <module name="cwsdao" />
+        <module name="cwsredis" />
+        <module name="cwsservice" />
+        <module name="cwsweb" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
